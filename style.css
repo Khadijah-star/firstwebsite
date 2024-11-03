@@ -1,0 +1,53 @@
+body{
+   background-color: peachpuff;
+}
+
+
+button{
+   background-color: lightgoldenrodyellow;
+   color: palevioletred;
+   font-size: 25px;
+}
+
+
+.headertitle{
+   color: palevioletred;
+   font-size: 30px;
+   text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top: 100px;
+}
+
+
+.hi-image{
+   display:block;
+   margin: 0 auto;
+}
+.button1{
+   position:absolute;
+   height: 8%;
+   width: 25%;
+   left: 0%;
+   bottom: 92%;
+}
+.button2{
+   position:absolute;
+   height: 8%;
+   width: 25%;
+   left: 25%;
+   bottom: 92%;
+}
+.button3{
+   position:absolute;
+   height: 8%;
+   width: 25%;
+   left: 50%;
+   bottom: 92%;
+}
+.button4{
+   position:absolute;
+   height: 8%;
+   width: 25%;
+   left: 75%;
+   bottom: 92%;
+}
